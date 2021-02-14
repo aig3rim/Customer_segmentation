@@ -1,7 +1,7 @@
 # Customer segmentation
 
 ## Introduction
-This is a source code for my Medium blog post Data Driven Cistomer Segmentation.
+This is a source code for my [Medium](https://aigerimshopenova.medium.com/) blog post [Data Driven Cistomer Segmentation](https://aigerimshopenova.medium.com/data-driven-customer-segmentation-c16062741a7c?sk=e86b92ca32bd124cea50ee0378ca0a23).
 
 ### Motivation
 I believe that the best way to learn about marketing data science is to work through examples.
